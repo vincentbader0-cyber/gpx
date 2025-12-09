@@ -3,6 +3,10 @@
   "features": [
     {
       "type": "Feature",
+      "properties": {
+        "name": "2025-11-22_08.12.01-ski_touring.gpx",
+        "type": "track"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -38682,10 +38686,13 @@
             1098.4
           ]
         ]
-      },
-      "properties": {
-        "name": "GPX Track"
       }
     }
+  ],
+  "bbox": [
+    7.146948,
+    46.404678,
+    7.176303,
+    46.42294
   ]
 }
